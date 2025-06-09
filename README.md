@@ -40,7 +40,7 @@ This is the recommended method for macOS and Linux users.
 
 ```bash
 # First, tap the repository
-brew tap your-username/pclip
+brew tap tomwu618/pclip
 
 # Now, install pclip
 brew install pclip
@@ -56,7 +56,7 @@ If you prefer to build it yourself or are on a different platform:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/pclip.git
+git clone https://github.com/tomwu618/pclip.git
 cd pclip
 
 # 2. Build the binary
@@ -152,13 +152,3 @@ All pull requests to the main branch are automatically built and tested. Release
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-### **IMPORTANT: Next Steps**
-
-Before you commit this `README.md` file, you need to replace all instances of `your-username` with your actual GitHub username. This is critical for the badge and installation URLs to work correctly.
-
-For example, change:
-`https://github.com/your-username/pclip`
-
-to:
-`https://github.com/john-doe/pclip`

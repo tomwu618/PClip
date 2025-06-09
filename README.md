@@ -1,12 +1,6 @@
 
 # PClip
 
-[![Go Version][go-shield]][go-url]
-[![MIT License][license-shield]][license-url]
-[![CI Status][ci-shield]][ci-url]
-[![Go Report Card][goreport-shield]][goreport-url]
-[![Latest Release][release-shield]][release-url]
-
 **PClip is a blazing-fast command-line tool that scans, aggregates, and copies source code to your clipboard, perfectly formatted in Markdown for AI-powered development.**
 
 ---
